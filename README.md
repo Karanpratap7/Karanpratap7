@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Karan Pratap Singh, a fresher at MUJ, pursuing B.Tech in CSE
+I am Karan Pratap Singh, a student at MUJ, pursuing B.Tech in CSE
 <!--
 **Karanpratap7/Karanpratap7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
